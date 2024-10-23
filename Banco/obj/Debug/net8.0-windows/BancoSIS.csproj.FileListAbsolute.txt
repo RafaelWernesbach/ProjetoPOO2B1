@@ -1,0 +1,38 @@
+C:\Users\BRAIA\source\repos\Banco\bin\Debug\net8.0-windows\BancoSIS.exe
+C:\Users\BRAIA\source\repos\Banco\bin\Debug\net8.0-windows\BancoSIS.deps.json
+C:\Users\BRAIA\source\repos\Banco\bin\Debug\net8.0-windows\BancoSIS.runtimeconfig.json
+C:\Users\BRAIA\source\repos\Banco\bin\Debug\net8.0-windows\BancoSIS.dll
+C:\Users\BRAIA\source\repos\Banco\bin\Debug\net8.0-windows\BancoSIS.pdb
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\Banco.TelaBanco.resources
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\Banco.view.TelaCliente.resources
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\Banco.view.TelaConta.resources
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\Banco.view.TelaTransacao.resources
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\BancoSIS.csproj.GenerateResource.cache
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\BancoSIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\BancoSIS.AssemblyInfoInputs.cache
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\BancoSIS.AssemblyInfo.cs
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\BancoSIS.csproj.CoreCompileInputs.cache
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\BancoSIS.dll
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\refint\BancoSIS.dll
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\BancoSIS.pdb
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\BancoSIS.genruntimeconfig.cache
+C:\Users\BRAIA\source\repos\Banco\obj\Debug\net8.0-windows\ref\BancoSIS.dll
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\bin\Debug\net8.0-windows\BancoSIS.exe
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\bin\Debug\net8.0-windows\BancoSIS.deps.json
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\bin\Debug\net8.0-windows\BancoSIS.runtimeconfig.json
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\bin\Debug\net8.0-windows\BancoSIS.dll
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\bin\Debug\net8.0-windows\BancoSIS.pdb
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\Banco.TelaBanco.resources
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\Banco.view.TelaCliente.resources
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\Banco.view.TelaConta.resources
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\Banco.view.TelaTransacao.resources
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\BancoSIS.csproj.GenerateResource.cache
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\BancoSIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\BancoSIS.AssemblyInfoInputs.cache
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\BancoSIS.AssemblyInfo.cs
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\BancoSIS.csproj.CoreCompileInputs.cache
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\BancoSIS.dll
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\refint\BancoSIS.dll
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\BancoSIS.pdb
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\BancoSIS.genruntimeconfig.cache
+C:\Users\BRAIA\OneDrive\Área de Trabalho\Nova pasta\Banco\obj\Debug\net8.0-windows\ref\BancoSIS.dll
